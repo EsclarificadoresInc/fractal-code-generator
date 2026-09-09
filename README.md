@@ -2,6 +2,15 @@
 
 🌀 Fractal Code Generator - Donde el arte fractal se encuentra con el código
 
+## 👤 Autoría del proyecto
+
+**Juan Pablo Benegas** es el autor y creador de este proyecto. Es un
+desarrollador autodidacta.
+
+La implementación fue realizada por Juan Pablo Benegas con asistencia de
+inteligencias artificiales. No hubo colaboración humana externa en el
+desarrollo del proyecto.
+
 ## 📄 Licencia
 
 Este proyecto está bajo la **GNU General Public License v3.0 (GPLv3)** 
@@ -56,4 +65,6 @@ e incluye:
 ---
 
 **📧 Para consultas específicas sobre licencias:**
-[web](gmail:benegasjuanpablo265@gmail.com)
+
+- Juan Pablo Benegas: [benegasjuanpablo265@gmail.com](mailto:benegasjuanpablo265@gmail.com)
+- Cuenta de GitHub: [AlambiqueSauron@proton.me](mailto:AlambiqueSauron@proton.me)
