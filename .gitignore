@@ -1,0 +1,29 @@
+# Binarios
+fractal_advanced
+*.exe
+*.out
+
+# Objetos
+*.o
+*.obj
+
+# Archivos temporales
+temp_code.*
+fractal_data.bin
+*.png
+*.ppm
+
+# Directorios
+build/
+bin/
+lib/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,157 @@
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The GNU General Public License is a free, copyleft license for
+software and other kinds of works.
+
+  The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.  By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.
+
+  [Texto completo de la GPLv3...]
+
+---
+
+## ⚖️ EXCEPCIÓN ESPECIAL - Fractal Code Generator
+
+Además de los términos y condiciones de la GNU General Public License 
+versión 3 (GPLv3), se concede permiso adicional bajo las siguientes 
+condiciones específicas para el software "Fractal Code Generator" 
+y sus contribuciones:
+
+### 1️⃣ USO INTERNO EN ORGANIZACIONES
+
+Las organizaciones (incluyendo pero no limitado a empresas, 
+corporaciones, instituciones gubernamentales) pueden utilizar, 
+ejecutar y modificar el software internamente **sin necesidad de 
+publicar sus modificaciones**, siempre que cumplan con:
+
+**a) No Distribución Externa**
+- Las modificaciones no deben ser distribuidas fuera de la organización
+- El uso debe ser estrictamente interno
+
+**b) Reporte de Mejoras**
+- Deben reportar bugs, vulnerabilidades y mejoras a los mantenedores
+- Los reportes deben incluir suficiente detalle para ser reproducibles
+- Se recomienda enviar pull requests cuando sea posible
+
+**c) Atribución Obligatoria**
+- Debe mantenerse el aviso de copyright original
+- Debe reconocerse el trabajo original en cualquier documentación interna
+- No se puede eliminar o modificar los créditos del software
+
+**d) Uso Permitido**
+- Despliegue en servidores internos
+- Integración en pipelines de CI/CD
+- Análisis de código y experimentación
+- Formación y capacitación de equipos
+
+### 2️⃣ PROYECTOS DE INVESTIGACIÓN
+
+Universidades, centros de investigación y proyectos académicos pueden 
+usar y modificar el software sin restricciones adicionales, siempre que:
+
+**a) Publicación de Hallazgos**
+- Los resultados de investigación deben ser publicados
+- Se debe citar el software en las publicaciones académicas
+- Se recomienda compartir las mejoras con la comunidad
+
+**b) Uso Educativo**
+- Permitido en cursos, talleres y laboratorios
+- Puede ser utilizado para enseñar conceptos de:
+  - Programación en C
+  - Gráficos por computadora
+  - Compresión de datos
+  - Arte generativo
+
+**c) Colaboración**
+- Se fomenta la colaboración entre instituciones
+- Las mejoras pueden ser compartidas libremente
+
+### 3️⃣ ARTE Y EDUCACIÓN
+
+El uso en proyectos artísticos y educativos está **completamente libre** 
+de restricciones adicionales:
+
+**a) Proyectos Artísticos**
+- Instalaciones interactivas
+- Arte generativo
+- Exposiciones y museos
+- Performance digital
+
+**b) Educación**
+- Escuelas y colegios
+- Bootcamps y cursos
+- Material didáctico
+- Proyectos estudiantiles
+
+**c) Creatividad**
+- Se fomenta la experimentación
+- No hay obligación de compartir modificaciones
+- Atribución recomendada pero no obligatoria
+
+---
+
+## 📋 RESUMEN DE LA LICENCIA
+
+| Escenario | ¿Puedes usar? | ¿Debes liberar? | ¿Atribución? |
+|-----------|--------------|-----------------|--------------|
+| 👤 Uso personal | ✅ Sí | ❌ No | 🙏 Recomendada |
+| 🏢 Uso interno empresa | ✅ Sí | ❌ No (con condiciones) | ✅ Obligatoria |
+| 📦 Distribución externa | ✅ Sí | ✅ Sí (GPLv3) | ✅ Obligatoria |
+| 🔬 Investigación | ✅ Sí | 🙏 Recomendado | ✅ Obligatoria |
+| 🎨 Arte/Educación | ✅ Sí | ❌ No | 🙏 Recomendada |
+
+---
+
+## 🎯 INTENCIÓN DE LA LICENCIA
+
+Esta licencia híbrida busca:
+
+1. **Proteger el trabajo** - Evitar que grandes corporaciones se apropien sin contribuir
+2. **Fomentar la adopción** - Dar margen a empresas para experimentar
+3. **Impulsar la innovación** - Atraer investigadores y académicos
+4. **Mantener el espíritu creativo** - Apoyar el arte y la educación
+5. **Construir comunidad** - Crear un ecosistema alrededor del proyecto
+
+---
+
+## ⚠️ AVISO LEGAL
+
+Esta excepción es una interpretación de la GPLv3 y no sustituye el 
+asesoramiento legal profesional. Para casos específicos, se recomienda 
+consultar con un abogado especializado en propiedad intelectual.
+
+---
+
+**📧 Contacto para consultas sobre licencias:**
+[Tu correo electrónico o equipo de contacto]
+
+---
+
+**"El código vive en los fractales, los fractales viven en el código"** 🌀
+
+---
+
+Copyright (C) 2024 Fractal Code Generator Contributors
+
+Este programa es software libre: puedes redistribuirlo y/o modificarlo
+bajo los términos de la GNU General Public License publicada por la
+Free Software Foundation, ya sea la versión 3 de la Licencia, o
+(a tu elección) cualquier versión posterior.
+
+Este programa se distribuye con la esperanza de que sea útil,
+pero SIN NINGUNA GARANTÍA; sin siquiera la garantía implícita de
+COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulta
+la GNU General Public License para más detalles.
+
+Deberías haber recibido una copia de la GNU General Public License
+junto con este programa. Si no es así, visita <https://www.gnu.org/licenses/>.
