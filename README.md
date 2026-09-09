@@ -1,3 +1,7 @@
+# fractal-code-generator
+
+🌀 Fractal Code Generator - Donde el arte fractal se encuentra con el código
+
 ## 📄 Licencia
 
 Este proyecto está bajo la **GNU General Public License v3.0 (GPLv3)** 
