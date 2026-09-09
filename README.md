@@ -49,11 +49,9 @@ con una **Excepción Especial** que refleja la filosofía del proyecto.
 
 ### 📄 Texto Completo
 
-El texto completo de la licencia está disponible en el archivo [LICENSE](LICENSE) 
-e incluye:
-
-1. El texto oficial de la GPLv3 (675 líneas)
-2. La Excepción Especial para Fractal Code Generator
+Los términos de la licencia del proyecto están descritos en [LICENSE](LICENSE).
+La licencia base es la [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html),
+complementada por la excepción especial para Fractal Code Generator.
 
 ### 🛡️ Filosofía de la Licencia
 

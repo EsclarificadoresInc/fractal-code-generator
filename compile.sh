@@ -1,5 +1,6 @@
 #!/bin/bash
 # compile.sh - Compilación modular
+set -e
 
 echo "╔════════════════════════════════════════════════════════════╗"
 echo "║     🌀 FRACTAL CODE GENERATOR - COMPILACIÓN MODULAR      ║"
@@ -33,11 +34,6 @@ gcc -o fractal_advanced main.o fractal.o base64.o interpreter.o persistence.o re
 # Limpiar objetos
 rm -f *.o
 
-if [ $? -eq 0 ]; then
-    echo -e "${GREEN}✅ Compilación exitosa!${NC}"
-    echo -e "   📦 Tamaño: $(du -h fractal_advanced | cut -f1)"
-    echo -e "${GREEN}🚀 Ejecuta: ./fractal_advanced${NC}"
-else
-    echo -e "${RED}❌ Error en la compilación${NC}"
-    exit 1
-fi
+echo -e "${GREEN}✅ Compilación exitosa!${NC}"
+echo -e "   📦 Tamaño: $(du -h fractal_advanced | cut -f1)"
+echo -e "${GREEN}🚀 Ejecuta: ./fractal_advanced${NC}"
